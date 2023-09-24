@@ -1,3 +1,4 @@
+import React from "react";
 import "./Button.css";
 
 const Button = ({ size = 'medium', variant = 'contained', color = 'neutral', children, ...others }) => {

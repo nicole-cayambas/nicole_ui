@@ -1,6 +1,6 @@
 {
   "name": "nicole_ui",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -22,5 +22,21 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "src/lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicole-cayambas/nicole_ui.git"
+  },
+  "keywords": [
+    "UI",
+    "library"
+  ],
+  "author": "Nicole Cayambas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicole-cayambas/nicole_ui/issues"
+  },
+  "homepage": "https://github.com/nicole-cayambas/nicole_ui#readme"
 }
